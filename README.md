@@ -1,5 +1,11 @@
 # Console-Finances
 
-Tool to analyze finance records of a company.
+
+
 
 ### Description
+Tool to analyze finance records of a company.
+
+### Link to live page
+https://sophiaellis-dot.github.io/Console-Finances/
+
